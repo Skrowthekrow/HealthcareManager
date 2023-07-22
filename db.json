@@ -1,0 +1,22 @@
+{
+  "patients": [
+    {
+      "id": 1,
+      "name": "Sean Work",
+      "age": 31,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Ana Work",
+      "age": 28,
+      "gender": "Female"
+    },
+    {
+      "name": "Jacob Lattimer",
+      "id": 3,
+      "age": 56,
+      "gender": "Male"
+    }
+  ]
+}
